@@ -1,0 +1,55 @@
+
+# Python virtual environments
+.venv/
+.venv312/
+.venv-test/
+venv/
+env/
+
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# Local model downloads
+models/
+.cache/
+
+# Temporary files
+*.tmp
+*.log
+
+# Generated reports
+test_resume_report.pdf
+Resume_Intelligence_Report.pdf
+
+# Private input documents
+uploads/
+private_data/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+requirements-backup.txt
+test_dashboard.py

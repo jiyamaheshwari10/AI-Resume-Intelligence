@@ -1,0 +1,66 @@
+{
+  "Programming Languages": {
+    "Python": ["python"],
+    "Java": ["java"],
+    "C": ["c programming"],
+    "C++": ["c++", "cpp"],
+    "JavaScript": ["javascript", "js"],
+    "TypeScript": ["typescript"],
+    "R": ["r programming"],
+    "SQL": ["sql"]
+  },
+  "AI and Data Science": {
+    "Machine Learning": ["machine learning", "ml"],
+    "Deep Learning": ["deep learning", "dl"],
+    "Natural Language Processing": ["natural language processing", "nlp"],
+    "Computer Vision": ["computer vision"],
+    "Data Analysis": ["data analysis", "data analytics"],
+    "Scikit-learn": ["scikit-learn", "sklearn"],
+    "TensorFlow": ["tensorflow"],
+    "PyTorch": ["pytorch"],
+    "Pandas": ["pandas"],
+    "NumPy": ["numpy"],
+    "OpenCV": ["opencv"],
+    "Transformers": ["transformers"],
+    "LLMs": ["large language models", "llms", "llm"]
+  },
+  "Web Development": {
+    "HTML": ["html"],
+    "CSS": ["css"],
+    "React": ["react", "reactjs", "react.js"],
+    "Node.js": ["node.js", "nodejs"],
+    "Flask": ["flask"],
+    "Django": ["django"],
+    "FastAPI": ["fastapi"],
+    "Streamlit": ["streamlit"],
+    "REST APIs": ["rest api", "restful api", "rest apis"]
+  },
+  "Databases": {
+    "MySQL": ["mysql"],
+    "PostgreSQL": ["postgresql", "postgres"],
+    "MongoDB": ["mongodb"],
+    "SQLite": ["sqlite"],
+    "Redis": ["redis"]
+  },
+  "Developer Tools": {
+    "Git": ["git"],
+    "GitHub": ["github"],
+    "Docker": ["docker"],
+    "Kubernetes": ["kubernetes", "k8s"],
+    "Linux": ["linux"],
+    "AWS": ["aws", "amazon web services"],
+    "Azure": ["microsoft azure", "azure"]
+  },
+  "Core Computer Science": {
+    "Data Structures": ["data structures", "dsa"],
+    "Algorithms": ["algorithms"],
+    "Object-Oriented Programming": [
+      "object-oriented programming",
+      "object oriented programming",
+      "oop",
+      "oops"
+    ],
+    "DBMS": ["dbms", "database management system"],
+    "Operating Systems": ["operating systems"]
+  }
+}

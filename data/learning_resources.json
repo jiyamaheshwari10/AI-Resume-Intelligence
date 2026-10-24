@@ -1,0 +1,113 @@
+
+{
+  "Python": {
+    "topics": [
+      "Python fundamentals",
+      "Functions and object-oriented programming",
+      "File handling and exception handling",
+      "Working with Python libraries"
+    ],
+    "project": "Build a command-line task manager",
+    "resource": "https://docs.python.org/3/tutorial/"
+  },
+  "SQL": {
+    "topics": [
+      "SELECT, WHERE and ORDER BY",
+      "JOIN and GROUP BY",
+      "Subqueries and aggregate functions",
+      "Database design and normalization"
+    ],
+    "project": "Build a student records database",
+    "resource": "https://www.sqlbolt.com/"
+  },
+  "Machine Learning": {
+    "topics": [
+      "Supervised and unsupervised learning",
+      "Data preprocessing and feature engineering",
+      "Model training and evaluation",
+      "Overfitting and hyperparameter tuning"
+    ],
+    "project": "Build a classification model using scikit-learn",
+    "resource": "https://scikit-learn.org/stable/tutorial/index.html"
+  },
+  "Natural Language Processing": {
+    "topics": [
+      "Tokenization and text preprocessing",
+      "TF-IDF and text representations",
+      "Text classification",
+      "Transformer-based language models"
+    ],
+    "project": "Build a sentiment analysis application",
+    "resource": "https://huggingface.co/learn"
+  },
+  "Git": {
+    "topics": [
+      "Repositories and commits",
+      "Branches and merging",
+      "Resolving merge conflicts",
+      "Remote repositories"
+    ],
+    "project": "Manage a Python project using Git",
+    "resource": "https://git-scm.com/book/en/v2"
+  },
+  "Docker": {
+    "topics": [
+      "Containers and images",
+      "Dockerfiles",
+      "Building and running containers",
+      "Volumes and networking"
+    ],
+    "project": "Containerize a Python Streamlit application",
+    "resource": "https://docs.docker.com/get-started/"
+  },
+  "AWS": {
+    "topics": [
+      "Cloud computing fundamentals",
+      "IAM and cloud security",
+      "Amazon EC2 and S3",
+      "Deploying basic applications"
+    ],
+    "project": "Deploy a simple web application on AWS",
+    "resource": "https://skillbuilder.aws/"
+  },
+  "Data Structures": {
+    "topics": [
+      "Arrays and linked lists",
+      "Stacks and queues",
+      "Trees and graphs",
+      "Hashing and complexity analysis"
+    ],
+    "project": "Implement common data structures in Python",
+    "resource": "https://cp-algorithms.com/"
+  },
+  "Algorithms": {
+    "topics": [
+      "Time and space complexity",
+      "Searching and sorting",
+      "Recursion and backtracking",
+      "Greedy algorithms and dynamic programming"
+    ],
+    "project": "Build and compare sorting algorithms",
+    "resource": "https://cp-algorithms.com/"
+  },
+  "Deep Learning": {
+    "topics": [
+      "Neural network fundamentals",
+      "Backpropagation and optimization",
+      "CNNs and sequence models",
+      "Training and evaluating neural networks"
+    ],
+    "project": "Build an image classification model",
+    "resource": "https://pytorch.org/tutorials/"
+  },
+  "REST APIs": {
+    "topics": [
+      "HTTP methods and status codes",
+      "Request and response formats",
+      "API endpoints and validation",
+      "Authentication basics"
+    ],
+    "project": "Build a REST API using FastAPI",
+    "resource": "https://fastapi.tiangolo.com/tutorial/"
+  }
+}
